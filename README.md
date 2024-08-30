@@ -24,12 +24,22 @@
 </div>
 
 <p align="center">
-  <img src="./assets/network.png" alt="Network Architecture">
+  <img src="./assets/graphabstract.png" alt="Graph Abstract">
+  <br>
+  Graph Abstract
+  <br>
+</p>
+
+<p align="center">
+  <img src="./assets/networkarch.png" alt="Network Architecture">
+  <br>
+    Network Architecture
+  <br>
 </p>
 
 
 <p align="center">
-  <img src="./assets/results.png" alt="showcase">
+  <img src="./assets/rdcurve.png" alt="Rate-Distortion Curve Results">
   <br>
   🔥 For more results, visit our <a href="https://kepengxu.github.io/projects/realcamnet/"><strong>project page</strong></a>. 🔥
   <br>
